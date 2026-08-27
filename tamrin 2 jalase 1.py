@@ -296,7 +296,7 @@ def run(library):
 if __name__ == "__main__":
 
     # Create a library
-    library = Liabrary()
+    library = Library()
 
     # Create some books
     clean_code = Book("Clean Code", "Robert C. Martin", 2008)
